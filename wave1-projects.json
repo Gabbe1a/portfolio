@@ -1,0 +1,9 @@
+[
+  {"slug":"helmet-atelier","title":{"ru":"Helmet Atelier","en":"Helmet Atelier"},"summary":{"ru":"Премиальный лендинг студии кастомных шлемов","en":"Premium landing for a bespoke helmet studio"},"visitUrl":"http://13.143.162.71:3012/","tags":["landing","product"],"status":"preview"},
+  {"slug":"trooms-outdoor","title":{"ru":"TROOMS Outdoor","en":"TROOMS Outdoor"},"summary":{"ru":"Маркетинговый сайт модульных outdoor-кухонь","en":"Marketing site for modular outdoor kitchens"},"visitUrl":"http://13.143.162.71:8088/","tags":["landing","b2c"],"status":"preview"},
+  {"slug":"sporklany","title":{"ru":"Спорящие кланы","en":"Sporklany"},"summary":{"ru":"Бренд миниатюр: наборы, лор и комиксы","en":"Miniatures brand: paint kits, lore and comics"},"visitUrl":"https://sporklany.ru/","tags":["ecommerce","brand"],"status":"live"},
+  {"slug":"odin-k-odnomu","title":{"ru":"Один к Одному","en":"Odin k Odnomu"},"summary":{"ru":"Сайт цифровой стоматологической клиники","en":"Digital dentistry clinic website"},"visitUrl":"http://13.143.162.71:8291/","tags":["clinic","service"],"status":"preview"},
+  {"slug":"darbin","title":{"ru":"Darbin","en":"Darbin"},"summary":{"ru":"Сайт частной барбер-студии в Сочи","en":"Private barber studio site in Sochi"},"visitUrl":"http://13.143.162.71:8181/","tags":["local-business","barbershop"],"status":"preview"},
+  {"slug":"tony-montana","title":{"ru":"Tony Montana","en":"Tony Montana"},"summary":{"ru":"Сайт классического барбершопа в Краснодаре","en":"Classic barbershop site in Krasnodar"},"visitUrl":"http://13.143.162.71:8182/","tags":["local-business","barbershop"],"status":"preview"},
+  {"slug":"ella-koroleva","title":{"ru":"Элла Королёва","en":"Ella Koroleva"},"summary":{"ru":"Сайт стратегического менторства для лидеров","en":"Strategic mentorship site for leaders"},"visitUrl":"https://ellakoroleva.com/","tags":["personal-brand","coaching"],"status":"live"}
+]

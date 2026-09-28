@@ -1,0 +1,10 @@
+Собери портфолио по файлу BRIEF.md в этом проекте (репозиторий https://github.com/Gabbe1a/portfolio).
+
+Сделай Next.js App Router + TypeScript + Tailwind, RU/EN, стиль как pamidordesign.co (см. assets/ref-pamidor-*.png и BRIEF).
+Hero: assets/hero-mikhail.png → public/images/hero-mikhail.jpg (утверждён).
+Проекты первой волны строго из wave1-projects.json (7 штук).
+Карточка → /projects/[slug], кнопка Visit открывает visitUrl.
+Sporklany и Ella — live-домены клиента, так и оставь.
+Dockerfile + compose на :3000, npm run build должен пройти, открой PR.
+Мокапы устройств пока НЕ генерируй — плейсхолдер на странице кейса.
+Не коммить пароли VPS в git.
